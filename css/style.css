@@ -47,7 +47,7 @@ Author URI: http://www.aetherdesign.net
 	
 	/* Handheld */
 	
-	#handheld { position: relative; height: 583px; margin-top: 45px;}
+	#handheld { position: relative; height: 583px; margin-top: 0px;}
 	#handheld img { position: absolute; bottom: 0; }
 	
 	/* Hello */	
